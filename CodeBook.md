@@ -14,8 +14,10 @@ the context of the experiment.
 
 The script included with the project performes the following steps:
 
+
+
 1. Download and unzip the datasets of the Human Activity Recognition Using Smartphones experiment:
-    + Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+    + Source URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
     + File: UCI HAR Dataset.zip
 2. Parse the files containing the data:
     + activity_labels.txt
